@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dip"
+    android:orientation="vertical"
+    tools:context=".activity.HomeActivity">
+
+
+    <TextView
+        android:id="@+id/dealCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Current Deals: 0" />
+
+
+    <android.support.v7.widget.CardView
+        android:layout_below="@+id/dealCount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        app:cardCornerRadius="2dp">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dip" />
+    </android.support.v7.widget.CardView>
+
+    <Button
+        android:layout_centerInParent="true"
+        android:id="@+id/CreateDeal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Create a Deal" />
+
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginTop="1dp"
+        app:cardCornerRadius="2dp">
+
+        <TextView
+            android:textSize="20sp"
+            android:drawablePadding="15dp"
+            android:gravity="center_vertical"
+            android:drawableLeft="@drawable/deal_icon"
+            android:id="@+id/manageDeals"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Manage Deals"
+
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginTop="1dp"
+        app:cardCornerRadius="2dp">
+
+        <TextView
+            android:textSize="20sp"
+            android:drawablePadding="15dp"
+            android:gravity="center_vertical"
+            android:drawableLeft="@drawable/menu_icon"
+            android:id="@+id/MenuManagement"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Menu Management"
+
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginTop="1dp"
+        app:cardCornerRadius="2dp">
+
+        <TextView
+            android:textSize="20sp"
+            android:drawablePadding="15dp"
+            android:gravity="center_vertical"
+            android:drawableLeft="@drawable/profile_icon"
+            android:id="@+id/managePublicProfile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Manage Public Profile"
+
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginTop="1dp"
+        app:cardCornerRadius="2dp">
+
+        <TextView
+            android:textSize="20sp"
+            android:drawablePadding="15dp"
+            android:gravity="center_vertical"
+            android:drawableLeft="@drawable/setting_icon"
+            android:id="@+id/accoutsetting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Account Settings"
+
+            />
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:gravity=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginTop="1dp"
+        app:cardCornerRadius="2dp">
+
+        <TextView
+            android:textSize="20sp"
+            android:drawablePadding="15dp"
+            android:gravity="center_vertical"
+            android:drawableLeft="@drawable/map_icon"
+            android:id="@+id/mapList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Map View"
+
+            />
+    </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+</RelativeLayout>

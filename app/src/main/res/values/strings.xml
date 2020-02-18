@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Plutus-Vendor</string>
+
+
+    <string name="business_email">Business Email</string>
+    <string name="password">Password</string>
+    <string name="repassword">Re-enter Password</string>
+
+    <string name="tellus">Tell us about your business</string>
+    <string name="business_name">Business Name</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="zip">ZIP</string>
+    <string name="number">Phone Number</string>
+    <string name="desc">Description</string>
+    <string name="lat">lat</string>
+    <string name="llong">llong</string>
+    <string name="sBusiness">sBusiness</string>
+
+    <string name="sAddress">sAddress</string>
+
+    <string name="sMobile">sMobile</string>
+    <string name="sDescription">sDescription</string>
+    <string name="sFoodType">sFoodType</string>
+
+    <string name="imgtext">Please select the menu item you wish to add to the deal.</string>
+    <string name="imgitemtext">Tap here to upload photos of menu item</string>
+    <string name="pricetext">Tap here to enter item price details</string>
+    <string name="timetext">Tap here to enter deal time</string>
+    <string name="appSharedPref">Plutus_Vendor_Pref</string>
+    <string name="user_email_to_reg">email</string>
+    <string name="reg_user">profileUpdated</string>
+    <string name="vendor_id">vendorID</string>
+    <string name="FCMToken">FCMToken</string>
+    <string name="vendorImage">vendorImage</string>
+    <string name="google_map_key">AIzaSyA8GFcn2BX_vbqhGf3wGReFOIwYENQ9gJs</string>
+
+    <string name="lrim">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s
+        standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+        it to make a type specimen book.   </string>
+
+</resources>

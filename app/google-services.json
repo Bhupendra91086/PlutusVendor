@@ -1,0 +1,219 @@
+{
+  "project_info": {
+    "project_number": "502766603587",
+    "firebase_url": "https://prod-gimme.firebaseio.com",
+    "project_id": "prod-gimme",
+    "storage_bucket": "prod-gimme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502766603587:android:3c6a43c3783513c9",
+        "android_client_info": {
+          "package_name": "com.app.gimme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502766603587-svrud94telqalgi9p514d5ifh4q05k36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gimme",
+            "certificate_hash": "650ac0806bc311e9bdc193ac448297187eb41862"
+          }
+        },
+        {
+          "client_id": "502766603587-ha4qkmr11bld27rkf8fac8srt1efc913.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gimme",
+            "certificate_hash": "6f6288faa8ab2e3853be302c913552e55795e953"
+          }
+        },
+        {
+          "client_id": "502766603587-s4gpusv4ainfkcmgeha3ch4omjkkgr4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gimme",
+            "certificate_hash": "da170c30b93adfa1f13caf52761d10975e2532d8"
+          }
+        },
+        {
+          "client_id": "502766603587-e4jpptjpc88gpfasdcahob8cjv8rt40s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5V4uWq0ovyrof-o44pneuP9oQaj0viDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502766603587-e4jpptjpc88gpfasdcahob8cjv8rt40s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502766603587-h1i49bhao544h4c9137au8l66u9g53gu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devteam.Plutus-for-Business"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502766603587:android:7841049f108b4da3",
+        "android_client_info": {
+          "package_name": "com.app.gimme.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502766603587-3nqjr12h4j7slnf3bs0a03o50k609rv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gimme.vendor",
+            "certificate_hash": "0712274796c4d57bb739c8648d494676df131468"
+          }
+        },
+        {
+          "client_id": "502766603587-icrl1grhsc01tqajdk4j9jm34o098itq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gimme.vendor",
+            "certificate_hash": "da170c30b93adfa1f13caf52761d10975e2532d8"
+          }
+        },
+        {
+          "client_id": "502766603587-ech8ggdmbgnctejptpff8kuf3brq5876.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.gimme.vendor",
+            "certificate_hash": "6f6288faa8ab2e3853be302c913552e55795e953"
+          }
+        },
+        {
+          "client_id": "502766603587-e4jpptjpc88gpfasdcahob8cjv8rt40s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5V4uWq0ovyrof-o44pneuP9oQaj0viDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502766603587-e4jpptjpc88gpfasdcahob8cjv8rt40s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502766603587-h1i49bhao544h4c9137au8l66u9g53gu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devteam.Plutus-for-Business"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502766603587:android:3018044954db68cbeff3f6",
+        "android_client_info": {
+          "package_name": "com.app.plutusvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502766603587-tfqt0dhovr96ledem3b1s4rct7vo98op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.plutusvendor",
+            "certificate_hash": "da170c30b93adfa1f13caf52761d10975e2532d8"
+          }
+        },
+        {
+          "client_id": "502766603587-e4jpptjpc88gpfasdcahob8cjv8rt40s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5V4uWq0ovyrof-o44pneuP9oQaj0viDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502766603587-e4jpptjpc88gpfasdcahob8cjv8rt40s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502766603587-h1i49bhao544h4c9137au8l66u9g53gu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devteam.Plutus-for-Business"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502766603587:android:a977ef9d70c13bc4eff3f6",
+        "android_client_info": {
+          "package_name": "com.app.plutusvendorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502766603587-7o7l86dhl21q3s7shhetmr6032ip2nfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.plutusvendorapp",
+            "certificate_hash": "da170c30b93adfa1f13caf52761d10975e2532d8"
+          }
+        },
+        {
+          "client_id": "502766603587-e4jpptjpc88gpfasdcahob8cjv8rt40s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5V4uWq0ovyrof-o44pneuP9oQaj0viDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502766603587-e4jpptjpc88gpfasdcahob8cjv8rt40s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502766603587-h1i49bhao544h4c9137au8l66u9g53gu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devteam.Plutus-for-Business"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
